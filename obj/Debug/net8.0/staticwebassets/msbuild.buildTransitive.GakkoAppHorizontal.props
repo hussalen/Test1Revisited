@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/GakkoAppHorizontal.props" />
+</Project>
